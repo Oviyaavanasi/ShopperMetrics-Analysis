@@ -177,13 +177,13 @@ Install the following tools:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/Oviyaavanasi/ShopperMetrics-Analysis.git
 ```
 
 Navigate to the project folder:
 
 ```bash
-cd Customer_Shopping_Behavior_Analysis
+cd ShopperMetrics-Analysis
 ```
 
 ### Step 2: Install Python Libraries
